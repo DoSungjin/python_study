@@ -1,6 +1,5 @@
-This project is for code.
+This project is for python code study.
 
-When this project ends, i can finish this code by myself in short time.
 ## 🚀 Features
 It is for Apple type classification.
 You can check the picture of 4 types of apples.
