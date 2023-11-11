@@ -54,6 +54,4 @@ make test
 make style
 ```
 
-1/10 updated
-1/11 코드 필사
-1/13 코드 필사
+
